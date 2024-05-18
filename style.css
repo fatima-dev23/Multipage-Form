@@ -1,0 +1,91 @@
+.form-tabs
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.form-tabs h5
+{
+    background-color: rgb(255, 208, 0);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Account-details h5.c2, h5.c3
+{
+   background-color: grey;
+}
+
+form
+{
+    display: block;
+}
+
+.step1
+{
+    width: 35%;
+    margin: auto;
+}
+
+.back, .next
+{
+    border: none;
+}
+
+.Personal-details h5.c1
+{
+   background-color: rgb(29, 231, 29);
+}
+.Personal-details h5.c2
+{
+   background-color: rgb(255, 208, 0);
+}
+.Personal-details h5.c3
+{
+   background-color: grey;
+}
+
+.step2
+{
+    width: 35%;
+    margin: auto;
+}
+
+#cnic
+{
+    width:12px;
+}
+
+.Your-review h5.c1
+{
+   background-color: rgb(29, 231, 29);
+}
+.Your-review h5.c2
+{
+   background-color: rgb(29, 231, 29);
+}
+.Your-review h5.c3
+{
+   background-color: rgb(255, 208, 0);
+}
+
+.step3
+{
+    width:35%;
+    margin:auto;
+}
+
+.thank-you
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+    border: 3px solid green;
+    padding: 40px;
+    width: 35%;
+    background-color:antiquewhite;
+}
